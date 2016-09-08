@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chef-cookbooks/maven.svg?branch=master)](http://travis-ci.org/chef-cookbooks/maven)
+
 # Overview
 
 Every Chef installation needs a Chef Repository. This is the place where cookbooks, roles, config files and other artifacts for managing systems with Chef will live. We strongly recommend storing this repository in a version control system such as Git and treat it like source code.
