@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/chef-cookbooks/maven.svg?branch=master)](http://travis-ci.org/chef-cookbooks/maven)
+[![Build Status](https://travis-ci.org/mattfirtion/AzureWorkstation.svg?branch=master)](https://travis-ci.org/mattfirtion/AzureWorkstation)
 
 # Overview
 
